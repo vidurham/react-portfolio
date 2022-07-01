@@ -35,7 +35,7 @@
         "id": 5,
         "name": "Team Profile Generator", 
         "description": "A command-line application that takes in information about employees in a software engineering team and generates an HTML webpage that displays a summary for each employee. Instructions on how to run the application can be found on the README located in the GitHub repository, or you can watch the short demonstration video.",
-        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/good-morning.JPG",
+        "image":"https://cdn.loom.com/sessions/thumbnails/ff49044b4f474b67983f5d7cc92a59b7-with-play.gif",
         "github": "https://github.com/vidurham/team-profile-generator",
         "deploy": "https://www.loom.com/share/ff49044b4f474b67983f5d7cc92a59b7"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "name": "Employee Tracker", 
         "description": "A command line application that always you to build and manage an employee database using Node.js, Inquirer, and MySQL to create a content management system(CMS). Instructions on how to run the application can be found on the README located in the GitHub repository, or you can watch the short demonstration video.",
-        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/good-morning.JPG",
+        "image": "https://cdn.loom.com/sessions/thumbnails/b0dc4e3e17184c29855578d306f9f4c1-with-play.gif",
         "github": "https://github.com/vidurham/employee-tracker",
         "deploy": "https://www.loom.com/share/b0dc4e3e17184c29855578d306f9f4c1"
     }

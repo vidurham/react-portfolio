@@ -1,25 +1,27 @@
 import React from 'react'; 
 import Project from '../Project'
 import projects from '../Project/projects.json'
-
-function Wrapper(props) {
-    return <div className="wrapper">{props.children}</div>;
-}
+import Grid from '@mui/material/Grid';
+import Typography from '@mui/material/Typography';
 
 function Works () {  
 
     return (
         <section className="container">
-          <div className="project">
-            <h2 className="top-title">Bootcamp Work</h2>
-            <hr></hr>
-          </div>
+          <Typography gutterBottom variant="h2" component="div" textAlign="center">
+          BootCamp Work
+          </Typography>
 
-          <Wrapper id="card-data">
+          <Grid
+            container
+            direction="row"
+            justifyContent="center"
+            alignItems="center"
+            >
             {projects.map((work) => (
               <Project key={work.id} image={work.image} name={work.name} github={work.github} deploy={work.deploy}/>
             ))}
-          </Wrapper>
+           </Grid>
         </section>
     
     );

@@ -6,9 +6,9 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import InstagramIcon from '@mui/icons-material/Instagram';
 
-export default function LabelBottomNavigation() {
+export default function Footer() {
   return (
-    <Stack direction="row" justifyContent="center" divider={<Divider orientation="vertical" flexItem />} spacing={4}>
+    <Stack direction="row" justifyContent="center" alignItems="center" divider={<Divider orientation="vertical" flexItem />} spacing={4}>
       <a href="https://www.linkedin.com/in/vincent-durham/"><LinkedInIcon /></a>
       <a href="https://github.com/vidurham"><GitHubIcon /></a>
       <a href="https://twitter.com/bulldurham_44"><InstagramIcon /></a>
