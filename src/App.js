@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Works from "./components/Works";
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <Header>
       </Header>
       <main>
-      <Contact/>
+      <Works/>
       </main>
       <Footer>
       </Footer>

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Good Morning", 
+        "description": "A fun interactive morning app that asks a user for their zodiac sign and location and gives them a morning outlook for the day with links to daily quizzes. The app utilizes a horoscope API, the Spotify API, and the Open Weather API",
+        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/good-morning.JPG",
+        "github": "https://github.com/vidurham/good-morning",
+        "deploy": "https://vidurham.github.io/good-morning/" 
+    },
+    {
+        "id": 2,
+        "name": "Workday Scheduler", 
+        "description": "An interactive app that allows you to schedule your workday. The app uses Moment.js to give real time to your workday planner, changing colors of your planning blocks throughout the day. It also uses jQuery to save what you have planned at the click of a button. It does this through using LocalStorage on the computer.",
+        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/scheduler.JPG",
+        "github": "https://github.com/vidurham/workday-scheduler",
+        "deploy": "https://vidurham.github.io/workday-scheduler/"
+    },
+    {
+        "id": 3,
+        "name": "Weather Dashboard", 
+        "description": "An application that allows you to search for a city and then be returned with the current weather for that city and a 5-day future forecast for that city. Also, using localStorage, the app saves any search city and it can be clicked to return to its weather and future forecast.",
+        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/weather.JPG",
+        "github": "https://github.com/vidurham/weather-dashboard",
+        "deploy": "https://vidurham.github.io/weather-dashboard/"
+    },
+    {
+        "id": 4,
+        "name": "Bookhub", 
+        "description": "A social media platform to connect with book lovers to discuss books. A user can customize your profile with your favorite book genres, search for books by title or author, or create a discussion post for a book you're intrested in or comment on other user's discussions.",
+        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/bookhub2.JPG",
+        "github": "https://github.com/vidurham/bookhub",
+        "deploy": "https://bookhub-project-2.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "name": "Team Profile Generator", 
+        "description": "A command-line application that takes in information about employees in a software engineering team and generates an HTML webpage that displays a summary for each employee. Instructions on how to run the application can be found on the README located in the GitHub repository, or you can watch the short demonstration video.",
+        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/good-morning.JPG",
+        "github": "https://github.com/vidurham/team-profile-generator",
+        "deploy": "https://www.loom.com/share/ff49044b4f474b67983f5d7cc92a59b7"
+    },
+    {
+        "id": 6,
+        "name": "Employee Tracker", 
+        "description": "A command line application that always you to build and manage an employee database using Node.js, Inquirer, and MySQL to create a content management system(CMS). Instructions on how to run the application can be found on the README located in the GitHub repository, or you can watch the short demonstration video.",
+        "image": "https://raw.githubusercontent.com/vidurham/professional-portfolio/main/assets/images/good-morning.JPG",
+        "github": "https://github.com/vidurham/employee-tracker",
+        "deploy": "https://www.loom.com/share/b0dc4e3e17184c29855578d306f9f4c1"
+    }
+]
